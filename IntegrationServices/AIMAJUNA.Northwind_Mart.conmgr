@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="AIMAJUNA.Northwind_Mart"
+  DTS:DTSID="{2A80F2D1-2EDB-4B0B-AB0D-59838985B1B1}"
+  DTS:CreationName="ADO.NET:System.Data.OleDb.OleDbConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=AIMAJUNA;Initial Catalog=Northwind_Mart;Provider=SQLOLEDB.1;Integrated Security=SSPI;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
